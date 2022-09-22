@@ -1,0 +1,6 @@
+[submodule "src/vision"]
+	path = src/vision
+	url = https://github.com/Danendra10/vision.git
+[submodule "src/comm"]
+	path = src/comm
+	url = https://github.com/azzamwildan462/comm.git
