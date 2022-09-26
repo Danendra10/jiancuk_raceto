@@ -4,3 +4,6 @@
 [submodule "src/comm"]
 	path = src/comm
 	url = https://github.com/azzamwildan462/comm.git
+[submodule "src/master"]
+	path = src/master
+	url = https://github.com/Danendra10/master.git
