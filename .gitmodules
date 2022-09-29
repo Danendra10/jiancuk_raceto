@@ -7,3 +7,9 @@
 [submodule "src/master"]
 	path = src/master
 	url = https://github.com/Danendra10/master.git
+[submodule "src/attacker"]
+	path = src/attacker
+	url = https://github.com/azzamwildan462/attacker.git
+[submodule "src/goalkeeper"]
+	path = src/goalkeeper
+	url = https://github.com/azzamwildan462/goalkeeper.git
