@@ -15,3 +15,6 @@
 	path = src/goalkeeper
 	url = https://github.com/azzamwildan462/goalkeeper.git
 	
+[submodule "src/defender"]
+	path = src/defender
+	url = https://github.com/Danendra10/defender.git
