@@ -1,0 +1,1 @@
+make an indicator for every single robot's role
