@@ -74,6 +74,8 @@
         "variant": "cpp",
         "bit": "cpp",
         "*.ipp": "cpp",
-        "rs232.h": "c"
+        "rs232.h": "c",
+        "defender.h": "c",
+        "motion.h": "c"
     }
 }

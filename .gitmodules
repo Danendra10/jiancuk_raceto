@@ -18,3 +18,9 @@
 [submodule "src/defender"]
 	path = src/defender
 	url = https://github.com/Danendra10/defender.git
+[submodule "src/assist"]
+	path = src/assist
+	url = https://github.com/Danendra10/assist.git
+[submodule "src/motion"]
+	path = src/motion
+	url = https://github.com/Danendra10/motion.git
