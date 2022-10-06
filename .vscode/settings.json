@@ -76,6 +76,8 @@
         "*.ipp": "cpp",
         "rs232.h": "c",
         "defender.h": "c",
-        "motion.h": "c"
+        "motion.h": "c",
+        "goalkeeper.h": "c",
+        "pid.h": "c"
     }
 }
