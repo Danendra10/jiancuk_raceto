@@ -24,3 +24,6 @@
 [submodule "src/motion"]
 	path = src/motion
 	url = https://github.com/Danendra10/motion.git
+[submodule "src/utils"]
+	path = src/utils
+	url = https://github.com/Danendra10/utils.git
