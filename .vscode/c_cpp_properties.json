@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/opt/ros/noetic/include",
-                "/usr/include/**"
+                "/usr/include/**",
+                "${workspaceFolder}/src/multirole_func/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
