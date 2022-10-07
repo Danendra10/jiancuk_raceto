@@ -27,3 +27,6 @@
 [submodule "src/utils"]
 	path = src/utils
 	url = https://github.com/Danendra10/utils.git
+[submodule "src/multirole_func"]
+	path = src/multirole_func
+	url = https://github.com/iangavriel/multirole_func.git
