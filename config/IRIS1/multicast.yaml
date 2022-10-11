@@ -1,4 +1,4 @@
 identifier: 1
-iface: wlp0s20f3
+iface: wlp3s0
 multicast_ip: 224.16.32.80
 port: 1026
