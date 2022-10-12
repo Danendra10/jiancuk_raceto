@@ -4,11 +4,14 @@ haha hihi ntok
 
 TODO LIST:
 [v]     Check for Comm Multicast 
+[v]     Repair the include nodes
 []      Check for Comm Uni
 []      Finalize the motions
 []      Motion for kickoff
-[]      Repair the include nodes
+[]      Switching algo by bs
 
 -----> == Include
 
-    roles ----> multirole <----- master <----- utils
+            _________
+            | Utils |
+            
